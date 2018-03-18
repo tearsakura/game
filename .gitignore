@@ -1,0 +1,7 @@
+/.gradle/
+/.idea/
+/out/
+*.iml
+game.iml
+src/main/resources/
+src/test/
